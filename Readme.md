@@ -2,6 +2,7 @@
 
 * Студент: [Дмитрий Шушин](https://up.htmlacademy.ru/htmlcss-individual/2/user/2684653).
 * Наставник: [Александр Козюков](https://htmlacademy.ru/profile/id1119885).
+* Сайт: [Седона](https://dimonat-notavaliable.github.io/2684653-sedona-2).
 
 ---
 
